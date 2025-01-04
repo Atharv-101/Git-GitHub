@@ -19,7 +19,7 @@ Installing Git
 
 1. Windows
 <ul>
-<li>Download the Git installer from git-scm.com.<br></li>
+<li>Download the Git installer from <a herf="https://git-scm.com/">git-scm.com.</a><br></li>
 <li>Run the installer and follow the instructions.</li>
 </ul>
 Verify installation:
