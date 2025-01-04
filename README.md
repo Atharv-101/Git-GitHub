@@ -18,9 +18,10 @@ This repository is a collection of Python code and coursework designed to help b
 Installing Git
 
 1. Windows
-Download the Git installer from git-scm.com.<br>
-Run the installer and follow the instructions.
-
+<ul>
+<li>Download the Git installer from git-scm.com.<br></li>
+<li>Run the installer and follow the instructions.</li>
+</ul>
 Verify installation:
 
 ```bash
