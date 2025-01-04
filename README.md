@@ -84,11 +84,21 @@ git --version
 
 <ul>
   <li> <i>docs/:</i> Detailed markdown files explaining concepts and workflows. </li>
-  <li> examples/: Sample repositories and workflows to practice Git and GitHub. </li>
-  <li> cheatsheet/: A concise Git and GitHub cheat sheet for quick reference. </li>
-  <li> errors/: Common Git errors and solutions. </li>
+  <li> <i>examples/:</i> Sample repositories and workflows to practice Git and GitHub. </li>
+  <li> <i>cheatsheet/:</i> A concise Git and GitHub cheat sheet for quick reference. </li>
+  <li> <i>errors/:</i> Common Git errors and solutions. </li>
 </ul>
 
-## License
+## Usage
+<li> Clone this repository to your local machine: </li>
 
+```
+  git clone https://github.com/your-username/git-and-github-guide.git
+```
+<li> Navigate to the directory: </li>
+
+```
+  cd git-github-guide
+```
+<li> Start exploring the guides and examples. </li>
 [MIT](https://choosealicense.com/licenses/mit/)
