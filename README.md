@@ -19,7 +19,7 @@ Installing Git
 
 1. Windows
 <ul>
-<li>Download the Git installer from <a herf="https://git-scm.com/">git-scm.com.</a><br></li>
+<li>Download the Git installer from <a herf="https://git-scm.com/"> git-scm.com. </a><br></li>
 <li>Run the installer and follow the instructions.</li>
 </ul>
 Verify installation:
@@ -27,6 +27,26 @@ Verify installation:
 ```bash
 git --version
 ```
+<br>
+2. macOS
+<ul>
+<li>Use Homebrew<br></li>
+```bash
+  brew install git
+```
+  <li> Verify Installation</li>
+  
+```bash
+git --version
+```
+</ul>
+
+
+
+
+
+
+
 
 ## Usage
 
