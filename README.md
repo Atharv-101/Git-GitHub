@@ -58,26 +58,26 @@ git --version
 ```
 </ul>
 
+## Setting Up Git
+<p>While setting up git use the same credentials which you have while creating github account</p>
+<ul>
 
+<li>Configure your username:</li>
 
+```
+  git config --global user.name "Your Name"
+```
 
+<li>Configure your email:</li>
 
+```
+  git config --global email.name "yourname@mail.com"
+```
 
+<li>Verify Configure:</li>
 
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+```
+  git config --list
 ```
 
 ## Features
