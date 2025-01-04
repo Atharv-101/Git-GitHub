@@ -80,13 +80,14 @@ git --version
   git config --list
 ```
 
-## Features
+## Repository Contents
 
-Daily Updates: Fresh content uploaded every day, including examples, projects, and exercises.
-Beginner-Friendly: Designed for newcomers with no prior programming experience.
-Comprehensive Topics: Covers basic to advanced Python concepts.
-Interactive Exercises: Practical coding problems to reinforce learning.
-Well-Documented: Clear explanations and comments in the code for better understanding.
+<ul>
+  <li> <i>docs/:</i> Detailed markdown files explaining concepts and workflows. </li>
+  <li> examples/: Sample repositories and workflows to practice Git and GitHub. </li>
+  <li> cheatsheet/: A concise Git and GitHub cheat sheet for quick reference. </li>
+  <li> errors/: Common Git errors and solutions. </li>
+</ul>
 
 ## License
 
