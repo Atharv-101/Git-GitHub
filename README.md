@@ -31,6 +31,7 @@ git --version
 2. macOS
 <ul>
 <li>Use Homebrew<br></li>
+  
 ```bash
   brew install git
 ```
