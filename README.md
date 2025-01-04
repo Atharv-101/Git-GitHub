@@ -8,11 +8,11 @@ This repository is a collection of Python code and coursework designed to help b
 ## Features
 <ul>
 <li>Git Basics: Explanation of version control, repositories, commits, and branches. <br></li>
-Git Installation: Instructions for installing Git on Windows, macOS, and Linux.<br>
-Git Commands: A detailed list of commands with examples (e.g., init, clone, commit, push, pull, merge, etc.).<br>
-GitHub Workflows: Step-by-step guides for creating repositories, forking, pull requests, and collaboration.<br>
-Real-World Examples: Practical use cases demonstrating Git and GitHub workflows.<br>
-Troubleshooting: Common errors and how to resolve them.<br>
+<li>Git Installation: Instructions for installing Git on Windows, macOS, and Linux.<br></li>
+<li>Git Commands: A detailed list of commands with examples (e.g., init, clone, commit, push, pull, merge, etc.).<br></li>
+<li>GitHub Workflows: Step-by-step guides for creating repositories, forking, pull requests, and collaboration.<br></li>
+<li>Real-World Examples: Practical use cases demonstrating Git and GitHub workflows.<br></li>
+<li>Troubleshooting: Common errors and how to resolve them.<br></li>
 </ul>
 ## Installation Guide
 Installing Git
