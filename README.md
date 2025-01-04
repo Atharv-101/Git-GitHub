@@ -41,6 +41,22 @@ git --version
 git --version
 ```
 </ul>
+<br>
+
+3. Linux
+<ul>
+<li>Use the package manager for your distribution.<br></li>
+  
+```bash
+  sudo apt update
+  sudo apt install git
+```
+  <li> Verify Installation</li>
+  
+```bash
+git --version
+```
+</ul>
 
 
 
